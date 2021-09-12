@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Eye Movement" />
+  <img src="app.gif" alt="Eye Movement" />
 
   &#xa0;
 
@@ -58,11 +58,10 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+- [CSS](https://www.w3.org/TR/CSS/#css)
+- [JavaScript](https://www.ecma-international.org/)
+- [HTML](https://whatwg.org/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
