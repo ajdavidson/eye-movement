@@ -76,13 +76,9 @@ $ git clone https://github.com/ajdavidson/eye-movement
 # Access
 $ cd eye-movement
 
-# Install dependencies
-$ yarn
-
 # Run the project
-$ yarn start
+$ open index.html
 
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
