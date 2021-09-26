@@ -46,13 +46,15 @@
 
 ## :dart: About ##
 
-Describe your project
+Elegent example of CSS animation through JavaScript DOM manipulation.\
+Combined with JavaScript Mouse Event tracking and object updating.\
+Providing a truly eye opening user experience.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: CSS JavaScript DOM manipulation;\
+:heavy_check_mark: Mouse Event Tracking;\
+:heavy_check_mark: ;
 
 ## :rocket: Technologies ##
 
