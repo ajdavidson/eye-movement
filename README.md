@@ -52,9 +52,9 @@ Providing a truly eye opening user experience.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: CSS JavaScript DOM manipulation;\
-:heavy_check_mark: Mouse Event Tracking;\
-:heavy_check_mark: ;
+:heavy_check_mark: CSS JavaScript DOM manipulation\
+:heavy_check_mark: Mouse Event Tracking\
+:heavy_check_mark: User object interaction
 
 ## :rocket: Technologies ##
 
