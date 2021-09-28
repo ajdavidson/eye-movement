@@ -82,6 +82,13 @@ $ cd eye-movement
 $ open index.html
 
 ```
+## :computer: In Development ##
+
+:heavy_plus_sign:&nbsp; Gradient animated color background\
+:heavy_plus_sign:&nbsp; Faces overlay\
+:heavy_plus_sign:&nbsp; Change eye color
+
+```
 
 ## :memo: License ##
 
