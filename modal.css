@@ -30,7 +30,7 @@ body{
     border-radius: 7px;
     /*width: 80%;*/
     width: 500px; /* Full width */
-    height: 341px; /* Full height */
+    height: 302px; /* Full height */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     -webkit-animation-name: animatetop;
     -webkit-animation-duration: 0.4s;
@@ -69,6 +69,7 @@ body{
     float: right;
     font-size: 28px;
     font-weight: bold;
+    padding-right: 10px;
 }
 
 .close:hover,
@@ -79,11 +80,13 @@ body{
 }
 
 .modal-header {
-    padding: 2px 16px;
+    padding: 0;
+    margin:0;
     background-color: #14495e;
     color: white;
     border-radius: 7px 7px 0px 0px;
     font-family: 'Concert One', cursive;
+    height: 50px;
 }
 
 .modal-body {
