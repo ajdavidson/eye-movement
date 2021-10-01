@@ -30,7 +30,7 @@ body{
     border-radius: 7px;
     /*width: 80%;*/
     width: 500px; /* Full width */
-    height: 401px; /* Full height */
+    height: 341px; /* Full height */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     -webkit-animation-name: animatetop;
     -webkit-animation-duration: 0.4s;
@@ -106,7 +106,7 @@ body{
     list-style: none;
     padding-left: 10px;
     font-weight: bold;
-    line-height: 2;
+    line-height: 1.5;
     /*font-family: 'Comfortaa', cursive;*/
 }
 #modal-howTo li:before {
